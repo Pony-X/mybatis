@@ -1,0 +1,3 @@
+# Project exclude paths
+/junit-test/target/
+/mybatis-001/target/
